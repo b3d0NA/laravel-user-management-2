@@ -4,7 +4,6 @@ import re
 import time
 from os import path
 
-from click import option
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.action_chains import ActionChains
