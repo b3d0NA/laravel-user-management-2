@@ -41,7 +41,6 @@ Jinja2==3.0.3
 jsonmerge==1.8.0
 jsonschema==4.7.2
 keyring==23.5.0
-language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
