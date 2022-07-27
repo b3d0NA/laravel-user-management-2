@@ -17,6 +17,7 @@ class CreateUsersTable extends Migration
             $table->string('endpoint')->nullable();
             $table->integer('company_id')->nullable();
             $table->string('next_schedule')->nullable();
+            $table->rememberToken();
             $table->timestamps();
             $table->softDeletes();
         });
