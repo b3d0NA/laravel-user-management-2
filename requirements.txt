@@ -30,7 +30,6 @@ docutils==0.17.1
 duplicity==0.8.21
 entrypoints==0.4
 evdev==1.4.0
-f.lux indicator applet==1.1.11rc0
 fasteners==0.14.1
 feedparser==6.0.8
 fontPens==0.2.4
