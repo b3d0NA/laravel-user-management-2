@@ -17,7 +17,6 @@ dbus-python==1.2.18
 decorator==4.4.2
 defcon==0.9.0
 distro==1.7.0
-distro-info===1.1build1
 dnspython==2.1.0
 docopt==0.6.2
 docutils==0.17.1
