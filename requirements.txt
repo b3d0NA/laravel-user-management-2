@@ -22,7 +22,6 @@ docutils==0.17.1
 entrypoints==0.4
 evdev==1.4.0
 fasteners==0.14.1
-feedparser==6.0.8
 fontPens==0.2.4
 fonttools==4.29.1
 fs==2.4.12
